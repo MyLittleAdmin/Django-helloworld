@@ -1,0 +1,1 @@
+python helloworld_project/manage.py runserver
