@@ -6,3 +6,4 @@ ren WPy64-3890 WinPython
 WinPython\python-3.8.9.amd64\python.exe -m venv .\venv
 call venv\Scripts\activate.bat
 pip install -r requirements.txt
+call db_migration.bat
